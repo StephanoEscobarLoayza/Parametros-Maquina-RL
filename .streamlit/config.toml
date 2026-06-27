@@ -1,0 +1,16 @@
+# ═══════════════════════════════════════════════════════════════════
+#  TEMA OSCURO · Motor Industrial Dashboard
+#  Esto arregla los componentes que salían blancos (selectores, tabla)
+#  y los acentos rojos por defecto (radio, chips, slider).
+# ═══════════════════════════════════════════════════════════════════
+[theme]
+base = "dark"
+primaryColor = "#22d3a0"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#161b26"
+textColor = "#e8ecf4"
+font = "sans serif"
+ 
+[server]
+runOnSave = true
+ 
